@@ -1,0 +1,38 @@
+body{
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    background-color: rgb(240, 13, 89);
+    padding: 20px;
+}
+nav{
+    position: absolute;
+    right: 0;
+    top: 70px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    color: rgb(235, 29, 29);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+}
+.logo_caixa{
+    position: relative;
+    width: 940px;
+    margin: auto;
+}
+.logo{
+    width: 20%;
+    position: center;
+}
+.titulo-bolo{
+    color:rgb(235, 29, 29);
+}
